@@ -1,10 +1,14 @@
 # CppHelloWorld
-#Algoritmos y estructura de datos
-#K1051
-#1er año, 1er cuatrimestre
-#Equipo 3
-#Usuario
-  Pranieri
-  156.591-6
-  Ranieri Castillo
-  Pablo Sebastian
+# Algoritmos y Estructuras de Datos
+
+## Curso: K1051
+
+## Año: 2017
+
+## Numero de equipo: 3
+
+## Integrantes:
+
+| Usuario GitHub |  Legajo  | Apellido | Nombre    |
+| -------------  |:--------:|:--------:|----------:|
+| Pranieri       | 156591-6 | Ranieri  | Pablo     |
