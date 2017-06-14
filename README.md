@@ -7,8 +7,6 @@
 
 ## Numero de equipo: 3
 
-## Integrantes:
-
 | Usuario GitHub |  Legajo  | Apellido | Nombre    |
 | -------------  |:--------:|:--------:|----------:|
 | Pranieri       | 156591-6 | Ranieri  | Pablo     |
