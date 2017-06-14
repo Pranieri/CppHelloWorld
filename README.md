@@ -1,5 +1,5 @@
-# CppHelloWorld
-#Algoritmos y estructura de datos
+# CppHelloWorld \n
+#Algoritmos y estructura de datos \n
 #K1051
 #1er año, 1er cuatrimestre
 #Equipo 3
